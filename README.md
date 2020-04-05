@@ -5,3 +5,4 @@ Commit "Update between Updates"
   -mudanças nas células Markdown do arquivo em Jupyter  
 Commit "-Update between Updates"  
   -adataçãoes no código para construção de um Naive Bayes multinomial  
+  -arquivo principal para correção adicionado em "Projeto1_Versão_Final.ipynb"
